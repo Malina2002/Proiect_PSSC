@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+      "projectUniqueName": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
       "projectName": "OrderManagement.Domain",
-      "projectPath": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+      "projectPath": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\Ema\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Domain\\obj\\",
+      "outputPath": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Downloads\\VisualStudioCommunitySDK\\NuGetPackages"

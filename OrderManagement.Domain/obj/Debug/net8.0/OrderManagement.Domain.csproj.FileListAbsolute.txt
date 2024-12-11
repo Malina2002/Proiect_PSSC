@@ -9,3 +9,14 @@ D:\Desktop\daa\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagem
 D:\Desktop\daa\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\refint\OrderManagement.Domain.dll
 D:\Desktop\daa\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.pdb
 D:\Desktop\daa\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\ref\OrderManagement.Domain.dll
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.deps.json
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.dll
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.pdb
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.AssemblyInfo.cs
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.dll
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\refint\OrderManagement.Domain.dll
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.pdb
+D:\Desktop\pssc2\OrderManager\OrderManagement.Domain\obj\Debug\net8.0\ref\OrderManagement.Domain.dll

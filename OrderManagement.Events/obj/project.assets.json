@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Events\\OrderManagement.Events.csproj",
+      "projectUniqueName": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Events\\OrderManagement.Events.csproj",
       "projectName": "OrderManagement.Events",
-      "projectPath": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Events\\OrderManagement.Events.csproj",
+      "projectPath": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Events\\OrderManagement.Events.csproj",
       "packagesPath": "C:\\Users\\Ema\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Events\\obj\\",
+      "outputPath": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Downloads\\VisualStudioCommunitySDK\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
-              "projectPath": "D:\\Desktop\\daa\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj"
+            "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+              "projectPath": "D:\\Desktop\\pssc2\\OrderManager\\OrderManagement.Domain\\OrderManagement.Domain.csproj"
             }
           }
         }
