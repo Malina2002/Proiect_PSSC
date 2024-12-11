@@ -1,0 +1,15 @@
+D:\Desktop\daa\OrderManager\OrderManagement.Events\bin\Debug\net8.0\OrderManagement.Events.deps.json
+D:\Desktop\daa\OrderManager\OrderManagement.Events\bin\Debug\net8.0\OrderManagement.Events.dll
+D:\Desktop\daa\OrderManager\OrderManagement.Events\bin\Debug\net8.0\OrderManagement.Events.pdb
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.AssemblyInfoInputs.cache
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.AssemblyInfo.cs
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.csproj.CoreCompileInputs.cache
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.dll
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\refint\OrderManagement.Events.dll
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.pdb
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\ref\OrderManagement.Events.dll
+D:\Desktop\daa\OrderManager\OrderManagement.Events\bin\Debug\net8.0\OrderManagement.Domain.dll
+D:\Desktop\daa\OrderManager\OrderManagement.Events\bin\Debug\net8.0\OrderManagement.Domain.pdb
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderManagement.Events.csproj.AssemblyReference.cache
+D:\Desktop\daa\OrderManager\OrderManagement.Events\obj\Debug\net8.0\OrderMan.C9BF5F8E.Up2Date
